@@ -1,0 +1,248 @@
+## This is a list of all the entities you can use in the json file.
+## Not all of them will work, some are system things that shouldn't be messed with.
+## This file gets deleted and remade every startup, can be disabled in the config.
+TwilightForest.Mist Wolf
+Thaumcraft.Wisp
+Giant
+MinecartHopper
+SmallFireball
+Item
+DartCraft.entityFairy
+TwilightForest.Slime Beetle
+DartCraft.entityStructureItem
+Fireball
+Natura.Imp
+Monster
+SnowMan
+TwilightForest.HydraHead
+Railcraft.railcraft.cart.work
+Railcraft.ItemFireproof
+TConstruct.LandmineFirework
+StevesCarts.Minecart.Vswe.0
+Thaumcraft.Alumentum
+Railcraft.railcraft.cart.gift
+Enderman
+TwilightForest.Tiny Bird
+Mob
+LavaSlime
+DartCraft.entityFrozenItem
+Railcraft.railcraft.cart.anchor
+OpenBlocks.Hang Glider
+Thaumcraft.Firebat
+TwilightForest.Mosquito Swarm
+Railcraft.railcraft.cart.loco.steam
+TwilightForest.Twilight Kobold
+DragonMount
+Thaumcraft.FollowItem
+ItemFrame
+OpenBlocks.EntityItemProjectile
+BiomesOPlenty.Bird
+OpenBlocks.XPOrbNoFly
+WRTracker
+Thaumcraft.TaintacleTiny
+Thaumcraft.TaintedCow
+BCTools.EntityWaterWheel
+Thaumcraft.TaintedSheep
+TwilightForest.Tower Boss
+ThermalExpansion.blizzBall
+Thaumcraft.BrainyZombie
+DartCraft.entityAngryEnderman
+TwilightForest.Loyal Zombie
+Ghast
+Thaumcraft.PechBlast
+MushroomCow
+Chicken
+Thaumcraft.Dart
+TwilightForest.Redcap
+TwilightForest.Forest Squirrel
+TwilightForest.Wild Boar
+Railcraft.railcraft.cart.chest
+Slime
+Thaumcraft.Pech
+Chisel.CloudInABottle
+BCTools.EntityLaser
+Pig
+Thaumcraft.PrimalOrb
+BiblioCraft.SeatEntity
+TwilightForest.Tower Ghast
+EnderDragon
+TConstruct.SlimeExplosive
+OpenBlocks.Cartographer
+Butterfly
+NetherOres.netherOresHellfish
+TwilightForest.Wild Deer
+TwilightForest.Firefly
+TwilightForest.Tower Golem
+cfm.MountableBlock
+TwilightForest.tfcharmeffect
+Snowball
+ThaumicTinkerer.ShadowbeamStaffBeam
+Railcraft.railcraft.cart.bore
+WitherSkull
+MineFactoryReloaded.entitySafariNet
+TConstruct.Fancy Item
+Natura.FlameSpiderBaby
+enderTot
+BiomesOPlenty.JungleSpider
+DartCraft.entityBottleItem
+StevesCarts.Cake.Vswe
+EnderCrystal
+TwilightForest.Maze Slime
+FireworksRocketEntity
+DartCraft.entityInvincibleItem
+Thaumcraft.TaintedChicken
+Railcraft.railcraft.cart.undercutter
+TwilightForest.Fire Beetle
+TConstruct.Launched Potion
+TwilightForest.tfthrownaxe
+DartCraft.entityBomb
+Silverfish
+BiomesOPlenty.Rosester
+NetherOres.netherOresArmedOre
+Thaumcraft.TravelingTrunk
+TwilightForest.tftomebolt
+TwilightForest.Boggard
+BCTools.EntityPotato
+BiomesOPlenty.PoisonDart
+Thaumcraft.SpecialItem
+Balloon
+Chisel.BallOMoss
+XPOrb
+coldPig
+betterstorage.Frienderman
+Ozelot
+TConstruct.EdibleSlime
+StevesCarts.Egg.Vswe
+Thaumcraft.TaintSpider
+Thaumcraft.TaintSwarm
+Villager
+Thaumcraft.PrimalArrow
+Railcraft.railcraft.cart.tank
+TwilightForest.tfmoonwormshot
+Squid
+Railcraft.railcraft.cart.tnt
+Skeleton
+TwilightForest.tflichbolt
+Sheep
+TwilightForest.Redscale Broodling
+Railcraft.railcraft.cart.pumpkin
+TwilightForest.Lower Goblin Knight
+Boat
+ThermalExpansion.blizzSpike
+Thaumcraft.FrostShard
+TwilightForest.Hydra
+Natura.NitroCreeper
+Thaumcraft.Taintacle
+LeashKnot
+TwilightForest.Twilight Wraith
+Blaze
+TwilightForest.tflichbomb
+Wolf
+CaveSpider
+MinecartSpawner
+TwilightForest.Skeleton Druid
+TwilightForest.Naga
+TConstruct.Dagger
+MinecartRideable
+Painting
+Railcraft.railcraft.cart.tnt.wood
+BiomesOPlenty.Glob
+OpenBlocks.Luggage
+TwilightForest.Lich Minion
+MinecartChest
+Thaumcraft.TaintedCreeper
+MinecartFurnace
+TwilightForest.Tower Termite
+Natura.FusewoodArrow
+TwilightForest.Questing Ram
+TwilightForest.Block&Chain Goblin
+Thaumcraft.FallingTaint
+TwilightForest.Knight Phantom
+EntityHorse
+TwilightForest.Mini Ghast
+TwilightForest.Penguin
+chuchu
+ThrownPotion
+TwilightForest.Twilight Lich
+Spider
+BiomesOPlenty.Pixie
+TConstruct.Crystal
+Guardian
+TwilightForest.tfthrownpick
+ObsidianTNT
+betterstorage.Cluckington
+DartCraft.entityFlyingPoo
+TwilightForest.Forest Bunny
+DartCraft.entityBeeFlask
+TwilightForest.tfhydramortar
+TwilightForest.tfslimeblob
+coldChicken
+TwilightForest.Helmet Crab
+Thaumcraft.ThaumSlime
+OpenBlocks.GoldenEye
+BiomesOPlenty.Phantom
+TwilightForest.Swarm Spider
+Railcraft.railcraft.cart.anchor.admin
+TwilightForest.Hedge Spider
+coldCow
+ButterflyPainting
+Natura.FlameSpider
+Forestry.butterflyGE
+PigZombie
+WitherBoss
+BCTools.EntityBullet
+TwilightForest.Redcap Sapper
+TwilightForest.Hostile Wolf
+Railcraft.railcraft.cart.track.relayer
+Railcraft.ItemFirestone
+Railcraft.railcraft.cart.anchor.personal
+BiomesOPlenty.MudBall
+Thaumcraft.TaintSpore
+MineFactoryReloaded.mfrEntityFishingRod
+MineFactoryReloaded.mfrEntityRocket
+Witch
+TConstruct.Arrow
+Thaumcraft.GiantBrainyZombie
+ThrownExpBottle
+OpenBlocks.Block
+DartCraft.entityBeeSwarm
+Thaumcraft.TaintedPig
+TwilightForest.Minoshroom
+TwilightForest.King Spider
+OpenBlocks.Player-Magnet
+OpenBlocks.MiniMe
+TwilightForest.Pinch Beetle
+TwilightForest.Bighorn Sheep
+Creeper
+ThermalExpansion.florb
+TwilightForest.Upper Goblin Knight
+Thaumcraft.Golem
+Arrow
+TwilightForest.Death Tome
+Thaumcraft.AspectOrb
+TwilightForest.tfnaturebolt
+Thaumcraft.TaintSwarmer
+Railcraft.railcraft.cart.furnace
+TwilightForest.Minotaur
+ThrownEnderpearl
+AppliedEnergistics.EntityTinyTNTPrimed
+EyeOfEnderSignal
+TwilightForest.tftwilightwandbolt
+Bat
+BiomesOPlenty.Wasp
+BiomesOPlenty.Dart
+VillagerGolem
+PrimedTnt
+FallingSand
+OpenBlocks.Magnet
+MineFactoryReloaded.mfrEntityPinkSlime
+Robit
+creeperTot
+Railcraft.railcraft.cart.basic
+Blizz
+MinecartTNT
+Thaumcraft.TaintedVillager
+MineFactoryReloaded.mfrEntityNeedle
+Zombie
+Cow
+TwilightForest.Forest Raven

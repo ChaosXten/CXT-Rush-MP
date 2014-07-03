@@ -1,0 +1,29 @@
+# Potion list file
+# Format:
+# ID: name
+1: potion.moveSpeed
+2: potion.moveSlowdown
+3: potion.digSpeed
+4: potion.digSlowDown
+5: potion.damageBoost
+6: potion.heal
+7: potion.harm
+8: potion.jump
+9: potion.confusion
+10: potion.regeneration
+11: potion.resistance
+12: potion.fireResistance
+13: potion.waterBreathing
+14: potion.invisibility
+15: potion.blindness
+16: potion.nightVision
+17: potion.hunger
+18: potion.weakness
+19: potion.poison
+20: potion.wither
+21: potion.healthBoost
+22: potion.absorption
+23: potion.saturation
+30: potion.fluxtaint
+32: potion.paralysis
+33: potion.possession

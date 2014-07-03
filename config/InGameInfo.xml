@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<config>
+	<lines at="middleright">
+		<line>
+			<value type="str">$fDay {day} (</value>
+			<value type="if">
+				<value type="var">daytime</value>
+				<value type="str">$eDay</value>
+				<value type="str">$8Night</value>
+			</value>
+			<value type="str"> {mctime}$f)</value>
+		</line>
+		<line>
+			<value type="str">Biome: $e{biome}$f</value>
+			<value type="if">
+				<value type="var">slimes</value>
+				<value type="str"> ($aSlime$f)</value>
+				<value type="str"/>
+			</value>
+		</line>
+
+		<line>
+			<value type="str">Light: </value>
+			<value type="max">
+				<value type="var">light</value>
+				<value type="num">7.5</value>
+				<value type="str">$e</value>
+				<value type="str">$c</value>
+			</value>
+			<value type="var">light</value>
+			<value type="str">$r (feet: </value>
+			<value type="max">
+				<value type="var">lightfeet</value>
+				<value type="num">7.5</value>
+				<value type="str">$e</value>
+				<value type="str">$c</value>
+			</value>
+			<value type="var">lightfeet</value>
+			<value type="str">$r)</value>
+		</line>
+
+		<line>
+			<value type="str">FPS: </value>
+			<value type="max">
+				<value type="var">fps</value>
+				<value type="num">30</value>
+				<value type="str">$a</value>
+				<value type="str">$c</value>
+			</value>
+			<value type="var">fps</value>
+		</line>
+		
+		<line>
+			<value type="str">Y: </value>
+			<value type="max">
+				<value type="var">yfeeti</value>
+				<value type="num">30</value>
+				<value type="str">$a</value>
+				<value type="str">$c</value>
+			</value>
+			<value type="var">yfeeti</value>
+		</line>		
+
+	</lines>
+
+</config>

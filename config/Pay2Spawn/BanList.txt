@@ -1,0 +1,13 @@
+## Any and all nodes in this list are globally banned.
+## 1 node per line.
+## Nodes can end in .* to indicate a wildcard.
+command.stop
+command.op
+command.deop
+command.ban
+command.ban-ip
+command.pardon
+command.pardon-ip
+command.save-on
+command.save-off
+command.save-all

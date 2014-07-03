@@ -1,0 +1,214 @@
+[
+  {
+    "name": "EXAMPLE",
+    "amount": 0,
+    "message": "\u0026a[$name donated $$amount]",
+    "rewards": [
+      {
+        "type": "music",
+        "data": {
+          "song": "STRING:Rick Astley - Never Gonna Give You Up.mp3"
+        }
+      },
+      {
+        "type": "randomItem",
+        "data": {
+          "tag": {
+            "display": {
+              "Name": "STRING:$name"
+            }
+          }
+        }
+      },
+      {
+        "type": "potioneffect",
+        "data": {
+          "Amplifier": "BYTE:0",
+          "Ambient": "BYTE:0",
+          "Duration": "INT:380",
+          "Id": "BYTE:7"
+        }
+      },
+      {
+        "type": "entity",
+        "data": {
+          "CustomName": "STRING:$name",
+          "name": "STRING:$randomEntity",
+          "random": "BYTE:1",
+          "SPAWNRADIUS": "INT:10",
+          "Riding": {
+            "CustomName": "STRING:$name",
+            "name": "STRING:$randomEntity",
+            "RideThisMob": "BYTE:1",
+            "agro": "BYTE:1"
+          },
+          "AMOUNT": "INT:2",
+          "agro": "BYTE:1"
+        }
+      },
+      {
+        "type": "dropitems",
+        "data": {
+          "type": "INT:2"
+        }
+      },
+      {
+        "type": "playermodification",
+        "data": {
+          "amount": "FLOAT:20.0",
+          "operation": "INT:1",
+          "type": "INT:1"
+        }
+      },
+      {
+        "type": "xporbs",
+        "data": {
+          "amoutOfOrbs": "INT:100"
+        }
+      },
+      {
+        "type": "lightning",
+        "data": {
+          "type": "INT:2",
+          "spread": "INT:10"
+        }
+      },
+      {
+        "type": "sound",
+        "data": {
+          "playToAll": "BYTE:0",
+          "soundName": "STRING:mob.creeper.say",
+          "volume": "FLOAT:1.0",
+          "pitch": "FLOAT:1.0"
+        }
+      },
+      {
+        "type": "item",
+        "data": {
+          "id": "SHORT:322",
+          "Damage": "SHORT:0",
+          "Count": "BYTE:1",
+          "tag": {
+            "display": {
+              "Name": "STRING:$name"
+            }
+          }
+        }
+      },
+      {
+        "type": "command",
+        "data": {
+          "command": "STRING:weather clear"
+        }
+      },
+      {
+        "type": "fireworks",
+        "data": {
+          "id": "SHORT:401",
+          "Damage": "SHORT:0",
+          "Count": "BYTE:1",
+          "tag": {
+            "Fireworks": {
+              "Flight": "BYTE:0",
+              "Explosions": [
+                {
+                  "Type": "BYTE:0",
+                  "Flicker": "BYTE:0",
+                  "Colors": "INT[]:[14188952,8073150]",
+                  "Trail": "BYTE:0"
+                },
+                {
+                  "Type": "BYTE:1",
+                  "Flicker": "BYTE:1",
+                  "Colors": "INT[]:[14188952,8073150]",
+                  "Trail": "BYTE:0"
+                }
+              ]
+            }
+          },
+          "AMOUNT": "INT:10",
+          "RADIUS": "INT:10"
+        }
+      },
+      {
+        "type": "customeentity",
+        "data": {
+          "DropChances": [
+            "FLOAT:0.085",
+            "FLOAT:0.085",
+            "FLOAT:0.085",
+            "FLOAT:0.085",
+            "FLOAT:0.085"
+          ],
+          "Age": "INT:0",
+          "UUIDLeast": "LONG:-5715675191322436780",
+          "Attributes": [
+            {
+              "Name": "STRING:generic.maxHealth",
+              "Base": "DOUBLE:8.0"
+            },
+            {
+              "Name": "STRING:generic.knockbackResistance",
+              "Base": "DOUBLE:0.0"
+            },
+            {
+              "Name": "STRING:generic.movementSpeed",
+              "Base": "DOUBLE:0.30000001192092896"
+            },
+            {
+              "Name": "STRING:generic.followRange",
+              "Base": "DOUBLE:16.0"
+            }
+          ],
+          "Motion": [
+            "DOUBLE:0.0",
+            "DOUBLE:0.0",
+            "DOUBLE:0.0"
+          ],
+          "CustomName": "STRING:",
+          "Health": "SHORT:8",
+          "HealF": "FLOAT:8.0",
+          "agro": "BYTE:1",
+          "CustomNameVisible": "BYTE:0",
+          "id": "STRING:Wolf",
+          "AttackTime": "SHORT:0",
+          "Fire": "SHORT:0",
+          "Sitting": "BYTE:0",
+          "Invulnerable": "BYTE:0",
+          "DeathTime": "SHORT:0",
+          "Owner": "STRING:",
+          "AbsorptionAmount": "FLOAT:0.0",
+          "Equipment": [
+            {},
+            {},
+            {},
+            {},
+            {}
+          ],
+          "InLove": "INT:0",
+          "OnGround": "BYTE:0",
+          "HurtTime": "SHORT:0",
+          "UUIDMost": "LONG:8088639719183830686",
+          "Dimension": "INT:0",
+          "Air": "SHORT:300",
+          "CollarColor": "BYTE:14",
+          "Pos": [
+            "DOUBLE:0.0",
+            "DOUBLE:0.0",
+            "DOUBLE:0.0"
+          ],
+          "CanPickUpLoot": "BYTE:0",
+          "Angry": "BYTE:0",
+          "PortalCooldown": "INT:0",
+          "PersistenceRequired": "BYTE:0",
+          "Leashed": "BYTE:0",
+          "FallDistance": "FLOAT:0.0",
+          "Rotation": [
+            "FLOAT:2.0063722",
+            "FLOAT:0.0"
+          ]
+        }
+      }
+    ]
+  }
+]
