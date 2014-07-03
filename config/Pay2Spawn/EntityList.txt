@@ -23,6 +23,7 @@ Thaumcraft.Alumentum
 Railcraft.railcraft.cart.gift
 Enderman
 TwilightForest.Tiny Bird
+extendedFishingHook
 Mob
 LavaSlime
 DartCraft.entityFrozenItem
@@ -152,6 +153,7 @@ TwilightForest.Lich Minion
 MinecartChest
 Thaumcraft.TaintedCreeper
 MinecartFurnace
+CustomFishHook
 TwilightForest.Tower Termite
 Natura.FusewoodArrow
 TwilightForest.Questing Ram
