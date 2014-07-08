@@ -121,6 +121,7 @@ Thaumcraft.PrimalArrow
 Railcraft.railcraft.cart.tank
 TwilightForest.tfmoonwormshot
 Squid
+Mystcraft.Meteor
 Railcraft.railcraft.cart.tnt
 Skeleton
 TwilightForest.tflichbolt
@@ -151,6 +152,7 @@ BiomesOPlenty.Glob
 OpenBlocks.Luggage
 TwilightForest.Lich Minion
 MinecartChest
+FallingBlock
 Thaumcraft.TaintedCreeper
 MinecartFurnace
 CustomFishHook
@@ -226,6 +228,7 @@ TwilightForest.tfnaturebolt
 Thaumcraft.TaintSwarmer
 Railcraft.railcraft.cart.furnace
 TwilightForest.Minotaur
+Linkbook
 ThrownEnderpearl
 AppliedEnergistics.EntityTinyTNTPrimed
 EyeOfEnderSignal

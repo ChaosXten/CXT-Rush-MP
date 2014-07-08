@@ -1,0 +1,55 @@
+filetimestamp:201407081438
+name:Portal,x:1,z:1,y:76,enabled:true,red:0.8445522,green:0.651417,blue:0.83439803,suffix:,world:,dimensions:4#
+name:Library,x:-347,z:-170,y:73,enabled:true,red:0.3034153,green:0.9394022,blue:0.36607182,suffix:,world:,dimensions:4#
+name:Library II,x:-220,z:661,y:75,enabled:true,red:0.37895477,green:0.04754132,blue:0.48682457,suffix:,world:,dimensions:4#
+name:Library III,x:-683,z:3380,y:74,enabled:true,red:0.07652986,green:0.30211866,blue:0.84526855,suffix:,world:,dimensions:4#
+name:Library IV,x:-140,z:4390,y:80,enabled:true,red:0.3406027,green:0.14426553,blue:0.8509538,suffix:,world:,dimensions:4#
+name:dungeon below,x:327,z:4410,y:71,enabled:true,red:0.81029546,green:0.45209974,blue:0.39410084,suffix:,world:,dimensions:4#
+name:Portal,x:0,z:0,y:71,enabled:true,red:0.9626251,green:0.65870214,blue:0.094766974,suffix:,world:,dimensions:3#
+name:SpawnPortal,x:-8,z:5,y:64,enabled:true,red:0.48291922,green:0.15927702,blue:0.052218556,suffix:,world:,dimensions:16#
+name:PLAYPEN,x:37,z:-278,y:69,enabled:true,red:0.98407704,green:0.39444017,blue:0.6244811,suffix:,world:,dimensions:16#
+name:Quarry,x:154,z:-204,y:128,enabled:true,red:0.29170513,green:0.26698202,blue:0.96586835,suffix:,world:,dimensions:19#
+name:ladder,x:150,z:-154,y:94,enabled:true,red:0.4355799,green:0.76570314,blue:0.7155193,suffix:,world:,dimensions:19#
+name:Portal,x:101,z:0,y:49,enabled:true,red:0.4748236,green:0.515799,blue:0.8282177,suffix:,world:,dimensions:1#
+name:topside,x:18,z:13,y:64,enabled:true,red:0.30810493,green:0.014249623,blue:0.5503947,suffix:,world:,dimensions:1#
+name:Quarry II,x:-48,z:-450,y:128,enabled:true,red:0.84345627,green:0.12749839,blue:0.8159581,suffix:,world:,dimensions:19#
+name:mine,x:29,z:-267,y:6,enabled:true,red:0.73691565,green:0.4955625,blue:0.70599115,suffix:,world:,dimensions:16#
+name:Spawn,x:0,z:1,y:68,enabled:true,red:0.6239434,green:0.75951403,blue:0.46621275,suffix:,world:,dimensions:17#
+name:portal,x:759,z:-987,y:150,enabled:true,red:0.4562775,green:0.44715697,blue:0.11431903,suffix:,world:,dimensions:-100#
+name:Spawn,x:36,z:-13,y:64,enabled:true,red:0.55665886,green:0.3830917,blue:0.77464664,suffix:,world:,dimensions:21#
+name:spawn,x:177,z:-257,y:73,enabled:true,red:0.3618992,green:0.4722364,blue:0.13622844,suffix:,world:,dimensions:22#
+name:LAST,x:445,z:-585,y:88,enabled:true,red:0.32816935,green:0.53862375,blue:0.2848326,suffix:,world:,dimensions:22#
+name:redwood,x:378,z:-815,y:103,enabled:true,red:0.55884176,green:0.3574338,blue:0.32110697,suffix:,world:,dimensions:22#
+name:Molten,x:-8,z:-1189,y:64,enabled:true,red:0.45737046,green:0.12959427,blue:0.027890265,suffix:,world:,dimensions:22#
+name:HUGE,x:-1548,z:-5115,y:101,enabled:true,red:0.83415955,green:0.4936182,blue:0.2391327,suffix:,world:,dimensions:22#
+name:Stuff,x:-116,z:656,y:51,enabled:true,red:0.5427909,green:0.38428545,blue:0.80631924,suffix:,world:,dimensions:23#
+name:Shaft,x:385,z:62,y:65,enabled:true,red:0.48802388,green:0.031731963,blue:0.032011986,suffix:,world:,dimensions:24#
+name:Portal,x:192,z:-253,y:64,enabled:true,red:0.8921491,green:0.3791666,blue:0.61088914,suffix:,world:,dimensions:24#
+name:Quarry,x:270,z:1920,y:75,enabled:true,red:0.45298493,green:0.06172657,blue:0.29375917,suffix:,world:,dimensions:24#
+name:DarkQuarry,x:-670,z:-1846,y:84,enabled:true,red:0.95592743,green:0.61790407,blue:0.94489443,suffix:,world:,dimensions:-100#
+name:LiquidGold I,x:435,z:1103,y:65,enabled:true,red:0.034068167,green:0.02760762,blue:0.7543791,suffix:,world:,dimensions:27#
+name:LiquidGold II,x:2151,z:3985,y:65,enabled:true,red:0.05053103,green:0.41745627,blue:0.008335412,suffix:,world:,dimensions:27#
+name:Spawn,x:-1,z:0,y:105,enabled:true,red:0.67451215,green:0.5914263,blue:0.32365865,suffix:,world:,dimensions:38#
+name:LiguidGreen,x:30,z:-189,y:64,enabled:true,red:0.68931663,green:0.20851266,blue:0.441944,suffix:,world:,dimensions:43#
+name:GreenForever,x:-119,z:1405,y:83,enabled:true,red:0.9249639,green:0.5457215,blue:0.4132703,suffix:,world:,dimensions:43#
+name:Quarry,x:20,z:650,y:121,enabled:true,red:0.8288504,green:0.8628178,blue:0.029694617,suffix:,world:,dimensions:48#
+name:IronOre,x:-5626,z:-102,y:95,enabled:true,red:0.17795664,green:0.4661277,blue:0.97565264,suffix:,world:,dimensions:51#
+name:Portal,x:144,z:-568,y:86,enabled:true,red:0.8701401,green:0.531569,blue:0.23170036,suffix:,world:,dimensions:-1#
+name:FirstGrave,x:-501,z:-565,y:64,enabled:true,red:4.581213E-4,green:0.51491714,blue:0.5570209,suffix:,world:,dimensions:0#
+name:2ndGrave,x:-698,z:-1119,y:77,enabled:true,red:0.12748528,green:0.59645027,blue:0.74134815,suffix:,world:,dimensions:0#
+name:Possible,x:-1611,z:-933,y:116,enabled:true,red:0.10321081,green:0.8773842,blue:0.8023722,suffix:,world:,dimensions:0#
+name:table,x:-1783,z:-677,y:73,enabled:true,red:0.35722244,green:0.8645629,blue:0.2914508,suffix:,world:,dimensions:0#
+name:MineShaft Floor,x:-1794,z:-681,y:11,enabled:true,red:0.7467611,green:0.98826677,blue:0.62859344,suffix:,world:,dimensions:0#
+name:MineShaft Top,x:-1781,z:-675,y:73,enabled:true,red:0.14039677,green:0.30313396,blue:0.5092266,suffix:,world:,dimensions:0#
+name:Abyss,x:-1576,z:-1317,y:63,enabled:true,red:0.68134594,green:0.15265304,blue:0.35408813,suffix:,world:,dimensions:0#
+name:webs,x:2084,z:-2275,y:80,enabled:true,red:0.5115982,green:0.98867863,blue:0.5662298,suffix:,world:,dimensions:0#
+name:village I,x:2815,z:-1743,y:64,enabled:true,red:0.3713935,green:0.33696562,blue:0.3431456,suffix:,world:,dimensions:0#
+name:dani house 1,x:2214,z:-1397,y:70,enabled:true,red:0.056006253,green:0.29578006,blue:0.05125642,suffix:,world:,dimensions:0#
+name:PowerRoom,x:-1508,z:-887,y:88,enabled:true,red:0.4116977,green:0.90591174,blue:0.12101591,suffix:,world:,dimensions:0#
+name:ConduitTunnel,x:-1515,z:-886,y:81,enabled:true,red:0.051135898,green:0.22925138,blue:0.5604593,suffix:,world:,dimensions:0#
+name:DigitaMiner,x:-1129,z:-636,y:67,enabled:true,red:0.43819553,green:0.6665304,blue:0.25041342,suffix:,world:,dimensions:0#
+name:Portal,x:-775,z:-431,y:80,enabled:true,red:0.74552006,green:0.09432006,blue:0.5415536,suffix:,world:,dimensions:6#
+name:grave,x:-502,z:-567,y:64,enabled:true,red:0.80617315,green:0.4707607,blue:0.7899823,suffix:,world:,dimensions:0#
+name:PowerStation,x:-534,z:-451,y:216,enabled:true,red:0.858314,green:0.42866713,blue:0.27002853,suffix:,world:,dimensions:6#
+name:Latest Death,x:2181,z:-2616,y:5,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:0#
+name:Syendre,x:-50,z:234,y:144,enabled:true,red:0.7670079,green:0.93932873,blue:0.6757404,suffix:,world:,dimensions:0#
